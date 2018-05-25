@@ -115,4 +115,6 @@ stats['occupation'][60] = 'writer'
 stats['occupation'][61] = 'writer'
 stats['occupation'][62] = 'writer'
 
-stats.to_csv('ranking_according_to_occupation_and_agegroup.csv')    
+stats.to_csv('ranking_according_to_occupation_and_agegroup.csv')
+
+print("Success")
